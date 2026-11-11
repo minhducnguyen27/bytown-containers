@@ -1,0 +1,3 @@
+Q1: File is deleted when container is deleted.
+Q2: In the compose file, there is no port config for web
+Q3: An image is a blueprint of the application, while a container is the actual running application created from that blueprint.
